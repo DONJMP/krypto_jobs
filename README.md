@@ -29,3 +29,9 @@ Specifically, you will assume the perspective of a KryptoJobs2Go customer in ord
 
 Once you receive the transaction’s hash code, you will navigate to the Transactions section of Ganache to review the blockchain transaction details. To confirm that you have successfully created the transaction, you will save screenshots to the README.md file of your GitHub repository for this Challenge assignment.
 
+# APP PICTURE
+![app](https://github.com/DONJMP/krypto_jobs/assets/141264743/cb630f51-90ff-4775-adef-3f6f0bb263a4)
+
+GETTING ERROR
+![error](https://github.com/DONJMP/krypto_jobs/assets/141264743/c6aa31e9-c9b3-4616-9c6c-771a30491047)
+

@@ -1,3 +1,5 @@
+![19-4-challenge-image](https://github.com/DONJMP/krypto_jobs/assets/141264743/4e4f0bff-9868-42d1-bcae-822fba787a7a)
+
 # krypto_jobs
 You work at a startup that is building a new and disruptive platform called KryptoJobs2Go. KryptoJobs2Go is an application that its customers can use to find fintech professionals from among a list of candidates, hire them, and pay them. As KryptoJobs2Go’s lead developer, you have been tasked with integrating the Ethereum blockchain network into the application in order to enable your customers to instantly pay the fintech professionals whom they hire with cryptocurrency.
 
